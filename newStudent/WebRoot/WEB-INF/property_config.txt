@@ -1,0 +1,6 @@
+jdbcUrl = jdbc:mysql://mindate20141011.mysql.rds.aliyuncs.com:3306/mindate?zeroDateTimeBehavior=convertToNull
+user=mindate_db
+password=mindate
+
+devMode=true
+domain=http://218.244.132.106:8085/mindateWeb
